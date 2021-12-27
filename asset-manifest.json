@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BotspotAi/static/css/main.40342755.css",
+    "main.js": "/BotspotAi/static/js/main.81fff88d.js",
+    "static/js/787.40c14546.chunk.js": "/BotspotAi/static/js/787.40c14546.chunk.js",
+    "index.html": "/BotspotAi/index.html",
+    "main.40342755.css.map": "/BotspotAi/static/css/main.40342755.css.map",
+    "main.81fff88d.js.map": "/BotspotAi/static/js/main.81fff88d.js.map",
+    "787.40c14546.chunk.js.map": "/BotspotAi/static/js/787.40c14546.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40342755.css",
+    "static/js/main.81fff88d.js"
+  ]
+}
