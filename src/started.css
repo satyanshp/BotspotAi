@@ -1,0 +1,33 @@
+.started {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.buttn {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  margin-bottom: 50px;
+  gap: 30px;
+  
+}
+.txt {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  width: 80%;
+  text-align: center;
+  color: #000000;
+  margin: auto;
+
+  margin-bottom: 50px;
+}
+
+@media screen and (max-width: 470px) {
+  .buttn{
+    flex-direction: column;
+  }
+  .buttn div{
+    margin: auto;
+  }
+}
